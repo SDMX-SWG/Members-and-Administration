@@ -1,3 +1,8 @@
+# General information about the SWG collaboration space
+
+* Link to all open issues across repositories (members only):
+https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3ASDMX-SWG
+
 # SDMX SWG Membership list
 Name | Agency
 ------------ | -------------
