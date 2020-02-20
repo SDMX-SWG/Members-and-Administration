@@ -3,7 +3,9 @@
 * Link to all open issues across repositories (members only):
 https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3ASDMX-SWG
 * New ideas and requests to improve the management of the collaboration platform in Github should be created as issues in the Members-and-Administration repo: https://github.com/SDMX-SWG/Members-and-Administration/issues
-* Guide on how to use MarkDown (MD) in Github for formatting of files, comments and descriptions: https://guides.github.com/features/mastering-markdown/
+* How to use MarkDown (MD) in Github for formatting of files, comments and descriptions:
+  * Guide: https://guides.github.com/features/mastering-markdown/
+  * Editor: [https://stackedit.io/app](https://stackedit.io/app) (can integrate directly with Github through a Google and Github account)
 
 # SDMX SWG Membership list
 Name | Agency
