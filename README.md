@@ -3,6 +3,7 @@
 * Link to all open issues across repositories (members only):
 https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3ASDMX-SWG
 * New ideas and requests to improve the management of the collaboration platform in Github should be created as issues in the Members-and-Administration repo: https://github.com/SDMX-SWG/Members-and-Administration/issues
+* Guide on how to use MarkDown (MD) in Github for formatting of files: https://guides.github.com/features/mastering-markdown/
 
 # SDMX SWG Membership list
 Name | Agency
