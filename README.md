@@ -11,8 +11,8 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+archived%3Afalse
 Name | Agency
 ------------ | -------------
 David Barraclough (Chair)|Organisation for Economic Co-operation and Development
-Zlatina Hofmeister (Deputy chair)|European Central Bank
-James Arthur Chan|International Monetary Fund
+James Arthur Chan (Deputy chair)|International Monetary Fund
+Zlatina Hofmeister|European Central Bank
 Stéphane Crête|Statistics Canada
 Daniel Suranyi|European Central Bank
 Dany Ghafari|United Nations Environment Programme
@@ -23,3 +23,7 @@ Momar Kouta|African Development Bank
 Taeke Anton Gjaltema|United Nations Economic Commission for Europe
 Laura Vignola|Italian National Institute of Statistics
 Zin Lin|United Nations Statistics Division
+Inkyung Choi|United Nations Economic Commission for Europe
+Heiðar Ingi Magnússon|Central Bank of Iceland
+Daníel Snorrason|Central Bank of Iceland
+Cory Chobaniks|Statistics Canada
