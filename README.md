@@ -1,3 +1,6 @@
+# SDMX SWG Action log
+For the work programme of the SDMX SWG, see the file SDMX_SWG_ActionLog for Github.xlsx in this repo
+
 # General information about the SWG collaboration space
 
 * Link to all open issues across repositories (members only):
