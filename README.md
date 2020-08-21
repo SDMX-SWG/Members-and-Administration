@@ -14,7 +14,7 @@ https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+archived%3Afalse
 Name | Agency
 ------------ | -------------
 David Barraclough (Chair)|Organisation for Economic Co-operation and Development
-Yamil Vargas|(Deputy chair)|International Monetary Fund
+Yamil Vargas (Deputy chair)|International Monetary Fund
 Zlatina Hofmeister|European Central Bank
 Stéphane Crête|Statistics Canada
 Daniel Suranyi|European Central Bank
