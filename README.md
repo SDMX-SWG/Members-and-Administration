@@ -20,14 +20,15 @@ Stéphane Crête|Statistics Canada
 Daniel Suranyi|European Central Bank
 Dany Ghafari|United Nations Environment Programme
 Christian Euvrard|Banque de France
-Danny Delcambre|Eurostat
-Gabriella Callini|Banca d’Italia
+Christine Laaboudi|Eurostat
 Momar Kouta|African Development Bank
 Taeke Anton Gjaltema|United Nations Economic Commission for Europe
 Laura Vignola|Italian National Institute of Statistics
-Zin Lin|United Nations Statistics Division
 Helen Ross|United Nations Statistics Division
 Inkyung Choi|United Nations Economic Commission for Europe
 Heiðar Ingi Magnússon|Central Bank of Iceland
 Daníel Snorrason|Central Bank of Iceland
-Cory Chobaniks|Statistics Canada
+Cory Chobanik|Statistics Canada
+Angela Gattulli|Banca d'Italia
+Maayan Kellerman|Bank of Israel
+
