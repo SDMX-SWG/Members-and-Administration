@@ -16,11 +16,9 @@ Name | Agency
 David Barraclough (Chair)|Organisation for Economic Co-operation and Development
 Yamil Vargas (Deputy chair)|International Monetary Fund
 Zlatina Hofmeister|European Central Bank
-Stéphane Crête|Statistics Canada
 Daniel Suranyi|European Central Bank
 Dany Ghafari|United Nations Environment Programme
 Christian Euvrard|Banque de France
-Christine Laaboudi|Eurostat
 Momar Kouta|African Development Bank
 Taeke Anton Gjaltema|United Nations Economic Commission for Europe
 Laura Vignola|Italian National Institute of Statistics
@@ -29,6 +27,18 @@ Inkyung Choi|United Nations Economic Commission for Europe
 Heiðar Ingi Magnússon|Central Bank of Iceland
 Daníel Snorrason|Central Bank of Iceland
 Cory Chobanik|Statistics Canada
-Angela Gattulli|Banca d'Italia
 Maayan Kellerman|Bank of Israel
+Bianca Ligani|Bank of international settlements
+Bilyana Bogdanova|Bank of international settlements
+Aymen Charef|Food and Agriculture Organization
+Elena Sanmartini|Banca d'Italia
+Federico Giorgi|Banca d'Italia
+Jason Robert Ackerman|World Bank
+Juan Rioja|National Institute of Statistics and Geography (INEGI)
+Momar Kouta|Afican Development Bank
+Ole Sorenson|European Central Bank
+Ioulia Sementchouk|Food and Agriculture Organization
+Galya Stateva|Eurostat
+Steve Armstrong|Statistics Canada
+
 
