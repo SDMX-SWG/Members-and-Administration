@@ -1,8 +1,7 @@
-**SDMX Statistical Working Group (SWG) - Terms of Reference**
-
+# SDMX Statistical Working Group (SWG) - Terms of Reference
 SDMX sponsoring organisations wish to increase and formalise the participation of the SDMX User Community (statistical offices, central banks and other national and international organisations dealing with statistics) in the management and development of the SDMX statistical guidelines. The SDMX Statistical Working Group (SWG) is meant to provide the forum for this active participation.
 
-_ **Mandate and process** _
+## Mandate and process
 
 1. The SDMX SWG manages the statistical guidelines (including the Content-Oriented Guidelines) on behalf of the SDMX Sponsors and the SDMX User Community.
 2. The SWG reports through the SDMX Secretariat to the SDMX Sponsors, and coordinates its activities with the SDMX Secretariat and the SDMX Technical Working Group (TWG).
@@ -12,7 +11,7 @@ _ **Mandate and process** _
 6. The consultations may also lead to the addition of items to the work programme and/or re-prioritisation of existing items.
 7. All information about the SWG and its activities (including public consultations) is published on a dedicated page of SDMX.org website to increase awareness among the SDMX User Community about the deliverables of the SWG.
 
-_ **Membership** _
+## Membership
 
 8. Membership of the SWG is open to:
 
@@ -40,7 +39,7 @@ _ **Membership** _
 
 15. The list of members of the SWG is made publicly available on sdmx.org.
 
-_ **Operational Procedures** _
+## Operational Procedures
 
 16. The SWG meets physically up to two times per year depending on the needs. Participation to meetings of the SWG will be at participants' organisations own cost. Virtual meetings should be held on a regular basis. Additional meetings can also be organised should a need for these arise.
 
