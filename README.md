@@ -31,11 +31,10 @@ Maayan Kellerman|Bank of Israel
 Bianca Ligani|Bank of international settlements
 Bilyana Bogdanova|Bank of international settlements
 Aymen Charef|Food and Agriculture Organization
-Elena Sanmartini|Banca d'Italia
+Elena San Martini|Banca d'Italia
 Federico Giorgi|Banca d'Italia
 Jason Robert Ackerman|World Bank
 Juan Rioja|National Institute of Statistics and Geography (INEGI)
-Momar Kouta|Afican Development Bank
 Ole Sorenson|European Central Bank
 Ioulia Sementchouk|Food and Agriculture Organization
 Galya Stateva|Eurostat
