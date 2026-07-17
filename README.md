@@ -28,8 +28,8 @@ Heiðar Ingi Magnússon|Central Bank of Iceland
 Daníel Snorrason|Central Bank of Iceland
 Cory Chobanik|Statistics Canada
 Maayan Kellerman|Bank of Israel
-Bianca Ligani|Bank of international settlements
-Bilyana Bogdanova|Bank of international settlements
+Bianca Ligani|Bank for International Settlements
+Bilyana Bogdanova|Bank for International Settlements
 Aymen Charef|Food and Agriculture Organization
 Elena San Martini|Banca d'Italia
 Federico Giorgi|Banca d'Italia
