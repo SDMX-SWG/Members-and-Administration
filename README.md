@@ -38,6 +38,7 @@ Juan Rioja|National Institute of Statistics and Geography (INEGI)
 Ole Sorenson|European Central Bank
 Ioulia Sementchouk|Food and Agriculture Organization
 Galya Stateva|Eurostat
+Kamel Abdellaoui|African Development Bank
 
 
 
